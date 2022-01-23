@@ -1,0 +1,4 @@
+Base path: 'E:/Dig software/Editor/Data', plugins path 'E:/Dig software/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+
+Cmd: shutdown
